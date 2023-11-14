@@ -1,0 +1,28 @@
+body {
+    margin: 24px;
+    background-color: #22252D;
+}
+
+.container {
+    text-align: center;
+}
+
+#Main {
+    color: whitesmoke;
+}
+
+#pls {
+    color: whitesmoke;
+}
+
+.I1 {
+    text-align: left;
+    color: lightBlue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#Nemo {
+    color: lightPink;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
